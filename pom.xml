@@ -19,7 +19,7 @@
 	<scm>
 		<developerConnection>scm:git:https://github.com/simhey314/maven-release.git</developerConnection>
 		<url>https://github.com/simhey314/maven-release</url>
-	  <tag>HEAD</tag>
+		<tag>HEAD</tag>
   </scm>
 
 	<dependencies>
